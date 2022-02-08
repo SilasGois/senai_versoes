@@ -1,4 +1,4 @@
 # senai_versoes
 primeiro repositório
 primeiro README
-LEMBREI DO COMANDO: git status
+LEMBREI DO COMANDO: git status!!!!!!!!!!!!
